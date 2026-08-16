@@ -1,0 +1,6 @@
+{
+  "name": "Eventra",
+  "description": "Event discovery, ticket booking, and outing-planning platform with instant PDF tickets, Squad Mode, and AI assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
